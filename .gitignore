@@ -1,0 +1,16 @@
+# Security for API keys
+.env
+
+# Python compilation files
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# IDE settings
+.vscode/
+.idea/
+.DS_Store
